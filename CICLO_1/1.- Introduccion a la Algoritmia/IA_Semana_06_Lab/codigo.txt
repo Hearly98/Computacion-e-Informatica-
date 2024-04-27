@@ -1,0 +1,21 @@
+	protected void actionPerformedComboBoxLibro(ActionEvent e) {
+		int posicion = comboBoxLibro.getSelectedIndex();
+		
+		if (posicion == 1) {
+			textFieldTitulo.setText("Como Programar en Java");
+			textFieldAutor.setText("Deithel & Deithel");
+			textFieldPrecio.setText("150.0");
+		} else if (posicion == 2) {
+			textFieldTitulo.setText("Como Programar en Java 2");
+			textFieldAutor.setText("Deithel & Deithel");
+			textFieldPrecio.setText("250.0");
+		} else if (posicion == 3) {
+			textFieldTitulo.setText("Como Programar en Java 3");
+			textFieldAutor.setText("Deithel & Deithel");
+			textFieldPrecio.setText("350.0");
+		} else {
+			textFieldTitulo.setText("");
+			textFieldAutor.setText("");
+			textFieldPrecio.setText("");
+		}
+	}

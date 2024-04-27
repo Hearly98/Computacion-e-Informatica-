@@ -1,0 +1,79 @@
+	protected void actionPerformedBtnProcesar(ActionEvent arg0) {
+		int modelo = cboMarca.getSelectedIndex();
+		int cantidad = Integer.parseInt(txtCantidad.getText());
+		double importeCompra = 0, descuento = 0, importePagar = 0;
+		int caramelos = 0;
+		
+		if (modelo == 0) {
+			importeCompra = cantidad * 5.4;
+			caramelos = 2;
+		} else if (modelo == 1) {
+			importeCompra = cantidad * 5.7;
+			caramelos = 3;
+		} else if (modelo == 2) {
+			importeCompra = cantidad * 4.8;
+			caramelos = 4;
+		} else if (modelo == 3) {
+			importeCompra = cantidad * 5.3;
+			caramelos = cantidad * 2;
+		} 
+		
+		
+		if (cantidad < 3) {
+			descuento = importeCompra * 0;
+		} else if (cantidad >= 3 && cantidad < 6) {
+			descuento = importeCompra * 0.025;
+		} else if (cantidad >= 6 && cantidad < 12) {
+			descuento = importeCompra * 0.05;
+		} else if (cantidad >= 12) {
+			descuento = importeCompra * 0.075;
+		}
+		
+		importePagar = importeCompra - descuento;
+		
+		
+		txtS.setText("Importe de compra\t: "+ importeCompra + "\n");
+		txtS.append("Descuento\t\t: "+ descuento + "\n");
+		txtS.append("Importe a pagar\t\t: "+ importePagar + "\n");
+		txtS.append("Caramelos\t\t: "+ caramelos + "\n");
+	}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	protected void actionPerformedBtnProcesar(ActionEvent arg0) {
+		int modelo = cboMarca.getSelectedIndex();
+		int cantidad = Integer.parseInt(txtCantidad.getText());
+		double importeCompra = 0, descuento = 0, importePagar = 0;
+		
+		if (modelo == 0) {
+			importeCompra = cantidad * 4.85;
+		} else if (modelo == 1) {
+			importeCompra = cantidad * 4.35;
+		} else if (modelo == 2) {
+			importeCompra = cantidad * 3.5;
+		} else if (modelo == 3) {
+			importeCompra = cantidad * 4.55;
+		} 
+		
+		
+		if (cantidad < 12) {
+			descuento = importeCompra * 0.075;
+		} else if (cantidad >= 12 && cantidad < 24) {
+			descuento = importeCompra * 0.095;
+		} else if (cantidad >= 24 && cantidad < 36) {
+			descuento = importeCompra * 0.115;
+		} else if (cantidad >= 36) {
+			descuento = importeCompra * 0.135;
+		}
+		
+		importePagar = importeCompra - descuento;
+		
+		
+		txtS.setText("Importe de compra\t: "+ importeCompra + "\n");
+		txtS.append("Descuento\t\t: "+ descuento + "\n");
+		txtS.append("Importe a pagar\t\t: "+ importePagar + "\n");
+	}
