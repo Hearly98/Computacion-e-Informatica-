@@ -1,0 +1,35 @@
+Estructuras de Datos en Java
+
+Descripción
+
+Estructuras de Datos en Java desarrolla los conceptos fundamentales
+del análisis y diseño de algoritmos, así como los relativos a los
+principios de abstracción y estructuras de datos. El texto incluye
+temas tan importantes en el campo de algoritmia, programación e
+ingeniería de software, tales como complejidad y eficiencia de
+algoritmos, abstracción, recursividad, representación de estructuras
+de datos básicas tales como arrays (vectores, listas y tablas), archivos
+y estructuras dinámicas como pilas, colas, listas, árboles y grafos.
+Los autores estudian de un modo riguroso y eminentemente práctico,
+aprovechando su larga experiencia docente, las técnicas fundamentales
+de algoritmos, análisis de algoritmos y estructuras de datos con un
+método de aprendizaje gradual que facilita la adquisición de conocimientos
+por el lector tanto teóricos como prácticos.
+
+Sobre los autores
+
+Luis Joyanes Aguilar. Dr. Ingeniero en Informática y
+Dr. en Sociología. Es licenciado en Ciencias Físicas por la Universidad
+Complutense de Madrid, donde también cursó estudios de doctorado. En la
+actualidad es profesor numerario de la Facultad de Informática de la
+Universidad Pontificia de Salamanca campus Madrid, donde imparte o ha
+impartido asignaturas tales como Fundamentos de Programación, Metodología
+de la Programación, Programación Orientada a Objetos, Ingeniería de
+Software, Sistemas Informáticos, Política Industrial y Tecnológica.
+
+Ignacio Zahonero Martínez. Master en Informática y
+Licenciado en Ciencias Físicas. En la actualidad es profesor asociado
+de la Facultad de Informática y Escuela Universitaria de Informática de
+la Universidad Pontificia de Salamanca campus Madrid; imparte o ha
+impartido asignaturas tales como Estructuras de Datos, Calculo Numérico,
+Metodología de la Programación y Programación Orientada a Objetos.

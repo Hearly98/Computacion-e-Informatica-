@@ -1,0 +1,38 @@
+html {
+	background-color: sienna;
+}
+body {
+	margin: 30px;
+	border: 0;
+	padding: 20px;
+	background-color: khaki;
+}
+h1 {
+	margin: 20px 0px;
+	border-bottom: 2px solid blue;
+	padding: 10px;
+	color: chocolate;
+}
+h2 {
+	color: green;
+}
+img {
+	margin: 20px auto;
+	border: 2px solid chocolate;
+	border-radius: 15px;
+	display: block;
+}
+p {
+	text-align: justify;	
+}
+h2.subtitulo {
+	margin: 10px 0px;
+	padding: 10px;
+	background-color: darkgoldenrod;
+	color: white;
+}
+p.parrafo {
+	margin: 20px 0px;
+	border: 2px solid peru;
+	padding: 10px;
+}
