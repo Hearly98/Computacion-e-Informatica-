@@ -1,0 +1,21 @@
+#contenedor{
+    display: flex;
+    flex-direction: row;
+    background-color: green;
+}
+ 
+p{
+    margin: 5px;
+    padding: 10px;
+    text-align: justify;
+}
+
+.caja1{
+    background-color: chocolate;
+}
+.caja2{
+    background-color: orange;
+}
+.caja3{
+    background-color: cyan;
+}

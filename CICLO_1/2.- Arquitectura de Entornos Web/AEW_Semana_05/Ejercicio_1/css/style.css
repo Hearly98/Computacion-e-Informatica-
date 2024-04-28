@@ -1,0 +1,27 @@
+*{ 
+    background-color: beige;
+}
+h1{
+    color: red;
+}
+h2{
+    color: red;
+}
+.verde{
+    color: green;
+}
+.marron{
+    color: brown;
+}
+.naranja{
+    color: orange;
+}
+h1{
+    color: #b193cd;
+    box-sizing: border-box;
+    box-shadow: 50px;
+    
+}
+
+
+

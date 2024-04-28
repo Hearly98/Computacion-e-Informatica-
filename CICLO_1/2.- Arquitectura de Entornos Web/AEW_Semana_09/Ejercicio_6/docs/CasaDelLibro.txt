@@ -1,0 +1,36 @@
+Casa del Libro
+
+Bloque nav
+----------
+Inicio
+Libros
+Novedades
+Cocina
+Juvenil
+Romántica
+
+Bloque aside izquierdo
+----------------------
+Destacados
+Libros de texto
+Libros recomendados
+Premios y actualidad
+Catálogos promocionales
+
+Novedades
+Novedades con video
+Novedades último mes
+Novedades bolsillo
+
+Bloque section
+--------------
+La sustancia del mal
+Más allá del invierno
+Ella lo sabe
+Después del amor
+El último policía
+¿Quién es Dáesh?
+
+Bloque footer
+-------------
+Derechos Reservados. Lima, Perú - 2021

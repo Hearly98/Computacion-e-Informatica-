@@ -1,0 +1,49 @@
+Cuzco
+
+Bloque nav
+----------
+Inicio
+Restaurantes
+Hoteles
+Turismo
+Transporte
+
+Bloque aside izquierdo
+----------------------
+Información
+
+Altitud: 3400 msnm
+Superficie: 385 km²
+Gentilicio: Cuzqueño
+Lluvias: Noviembre a Marzo
+	
+Distritos
+				
+Calca
+Coya
+Lares
+Pisac
+San Salvador
+Taray
+Yanatile
+
+Bloque section
+--------------
+Camino Inca
+Plaza de Armas
+Qenko
+Sacsayhuamán
+
+Bloque aside derecha
+--------------------
+Cuzco, principal destino turístico del Perú y uno de los más
+importantes del mundo, ofrece a sus visitantes, de una manera
+única y espectacular un rico legado histórico y monumental,
+ubicado en un territorio de montañas y valles multicolores,
+de selvas y bosques exuberantes, de hermosas lagunas y ríos
+torrentosos. El departamento del Cusco es considerado
+Patrimonio Cultural de la Humanidad.
+
+Bloque footer
+-------------
+Derechos Reservados. Lima, Perú - 2021

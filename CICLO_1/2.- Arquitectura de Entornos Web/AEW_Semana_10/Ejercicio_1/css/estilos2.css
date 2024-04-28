@@ -1,0 +1,31 @@
+header{
+        width: 98%;
+        margin: 1%;
+}
+header img{
+    width: 100%;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+ul li{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+}
+main{
+   display: flex;
+}
+main aside{
+    width: 30%;
+}
+
+article{
+    width: 70%;
+}
+article img{
+    width: 25%;
+}

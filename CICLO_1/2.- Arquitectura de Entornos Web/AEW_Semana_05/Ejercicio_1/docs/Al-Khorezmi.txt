@@ -1,0 +1,54 @@
+Al-Khorezmi:
+
+Un Matemático Olvidado
+
+Introducción
+
+Muchos se preguntarán quién es Al-Khorezmi. 
+Posiblemente adivinen su origen árabe, pero Al-Khorezmi debiera ser tan 
+conocido como Pitágoras o Euclides. Gracias a él, la matemática moderna 
+usa el sistema numérico actual, proveniente de la India. Mas aún, las palabras 
+guarismo (cifra, número) y algoritmo provienen de su nombre, que en árabe 
+significa, el de Khorezm por su lugar de origen. 
+Según el diccionario de la Real Academia, un algoritmo es 
+una secuencia o conjunto ordenado de operaciones o pasos que permite hallar 
+la solución de un problema (otra acepción es un método y notación en las 
+distintas formas del cálculo). Aunque los algoritmos datan de tiempos babilónicos 
+y los griegos diseñaron algoritmos aún famosos (por ejemplo, el de Euclides para 
+calcular el máximo común divisor de dos números), fue Al-Khorezmi el primero 
+que diseñó algoritmos pensando en su eficiencia, en particular, para el cálculo 
+de raíces de ecuaciones.
+
+Su vida
+
+Muhammad ibn Musa abu Djafar Al-Khorezmi nació 
+alrededor del 780 DC (otros citan 800 DC) en Khorezm, al sur del Mar de 
+Aral (hoy Khiva, Uzbekistán), que había sido conquistado 70 años antes 
+por los árabes. Hacia el 820, Al-Khorezmi fue llamado a Bagdad por el  
+califa abasida Al-Mamun, segundo hijo de Harun ar-Rashid, por todos 
+conocido gracias a Las mil y una noches. 
+Al-Mamun continuó el enriquecimiento de la ciencia árabe y de la Academia 
+de Ciencias creada por su padre, llamada la Casa de la Sabiduría, lo que 
+traería importantes consecuencias en el desarrollo de la ciencia en Europa, 
+principalmente a través de España. Poco se sabe de su vida, pero realizó 
+viajes a Afganistán, el sur de Rusia y Bizancio (hoy Turquía). Falleció en 
+Bagdad hacia el 850 DC (también se menciona 840 DC).
+
+Su Obra
+
+La mayoría de sus diez obras son conocidas en forma indirecta o por traducciones 
+hechas más tarde al latín (muchas de ellas en Toledo) y de algunas sólo se conoce 
+el título. Al-Khorezmi fue un recopilador de conocimiento de los griegos y de la 
+India, principalmente matemáticas, pero también astronomía (incluyendo el 
+calendario Judío), astrología, geografía e historia. Su trabajo más conocido y 
+usado fueron sus Tablas Astronómicas, basadas 
+en la astronomía india. Incluyen algoritmos para calcular fechas y las primeras tablas 
+conocidas de las funciones trigonométricas seno y cotangente. Lo más increíble
+es que no usó los números negativos (que aún no se conocían), ni el sistema 
+decimal ni fracciones, aunque sí el concepto del cero. Su Aritmética, traducida 
+al latín como Algoritmi de numero Indorum
+introduce el sistema numérico indio (sólo conocido por los árabes unos 50 años 
+antes) y los algoritmos para calcular con él.
+
+https://es.wikipedia.org/wiki/Al-Juarismi
+Más información en Wikipedia
