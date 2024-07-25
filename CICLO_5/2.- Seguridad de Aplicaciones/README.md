@@ -1,4 +1,4 @@
-<h1>Curso de Introducción a la Algoritmia 1</h1>
+<h1>Curso de Seguridad de Aplicaciones</h1>
 <img src="https://academia-ciberseguridad.com/web/image/1673-349d2d81/security-7.png"/>
 
 <p>Este repositorio contiene todos los documentos y materiales del curso de Seguridad de Aplicaciones</p>
